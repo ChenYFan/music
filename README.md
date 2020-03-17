@@ -16,4 +16,4 @@
 > 懒人专用 
 
 ## Demo
-<https://tools.cyfan.ga/musiccaptcha> 当然过人机验证也要脑子。
+无
